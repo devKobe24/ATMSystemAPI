@@ -1,0 +1,2 @@
+INSERT INTO accounts (account_number, pin, holder_name, balance) VALUES ('111-222-3333', '1234', '김철수', 100000);
+INSERT INTO accounts (account_number, pin, holder_name, balance) VALUES ('444-555-6666', '5678', '이영희', 50000);
